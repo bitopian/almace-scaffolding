@@ -66,7 +66,7 @@ dev:            false
 # Site name
 #
 # Default:      Almace Scaffolding
-name:           Almace Scaffolding
+name:           Bitopia - Bitcoin & Blockchain Marketing
 
 # Site short name
 #
@@ -89,7 +89,7 @@ name_short:     AMSF
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Super-fast Jekyll framework
+description:    Startups trying to break into Cryptocurrency or Blockchain space many hurdles ahead, especially considering the uncertainty with large advertising platforms like Google Adsense. We offer an assortment of services tailored towards crypto businesses trying to get noticed with such chaos in the marketplace.
 
 # Base URL
 #
@@ -129,7 +129,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            https://bitopia.io
 
 # Media assets URL
 #
@@ -158,8 +158,8 @@ download:       https://d1bmx7s6749k4k.cloudfront.net
 #
 # Used by Safari mask-icon, Chrome Web App theme color
 colors:
-  theme:        "#ff00b4"
-  background:   "#fff"
+  theme:        "#BAB0B0"
+  background:   "#FAF9F9"
 
 # Service Worker Precache
 service_worker:
@@ -176,7 +176,7 @@ google_analytics:
   url:          https://www.google-analytics.com/analytics.js
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        Bitopia
 
 # Twitter Cards large images
 #
